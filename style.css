@@ -6,3 +6,11 @@
 .themebg1{
     background-color: #C46C8B;
 }
+
+.brand{
+    box-sizing: border-box;
+    display: block;
+    height: 80px;
+    padding: 0 15px;
+    float: left;
+}
